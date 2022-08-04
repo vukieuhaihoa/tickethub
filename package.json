@@ -1,0 +1,16 @@
+{
+  "name": "tickethub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vukieuhaihoa/tickethub.git",
+  "author": "Hai Hoa <vukieuhaihoa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "husky": "^8.0.1"
+  }
+}
