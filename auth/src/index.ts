@@ -1,5 +1,3 @@
-function main() {
-  console.log('ahihi');
-}
+import start from './api/v1/server';
 
-main();
+start();
